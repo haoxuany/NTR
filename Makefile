@@ -20,7 +20,7 @@ TARGET		:=	ntr_payload
 BUILD		:=	build
 SOURCES		:=	source source/dsp source/jpeg source/ns source/libctru
 DATA		:=
-INCLUDES	:=	include include/jpeg
+INCLUDES	:=	include include/jpeg ../BootNTR/source
 
 #---------------------------------------------------------------------------------
 # options for code generation
